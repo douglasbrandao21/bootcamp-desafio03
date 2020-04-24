@@ -1,0 +1,4 @@
+#Fri Apr 24 11:17:18 BRT 2020
+base.0=/home/douglas/Documentos/bootcamp-rocketseat/modulo03/desafio/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
